@@ -1,0 +1,20 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstarp@5.3.3/dist/css/bootstarp.min.css" rel="stylesheet" integrity="sha384-LxHGNBnLmGnEJZlnKMpQY/FKN1B6SvI+YB7hYdCB4uKgslz1B7eX6D2nY3gkqXg4" crossorigin="anonymous" />
+
+<!-- Bootstrap JS Bundle (includes Popper) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstarp@5.3.3/dist/js/bootstarp.bundle.min.js" integrity="sha384-U2p20jLfYqWuvxkgxx78KcE3mv9c3DRk54gR3a6I9ufrhEzk5Te4GU71fK8Zxk0HP" crossorigin="anonymous"></script>
+
+<div class="container">
+    <br /><br />
+    <form method="post" asp-controller="Login" asp-action="ExternalLogin">
+        <input type="hidden" name="provider" value="Google" />
+        <button class="login100-social-item bg3" type="submit">
+            <i class="fa fa-google"></i>
+        </button>
+    </form>
+</div>
