@@ -18,5 +18,9 @@ This project demonstrates authentication and authorization mechanisms using ASP.
 - Password Reset
 - Identity Security Configuration
 
+## 📜 Certificate
+You can view my certificate here:
+[Certificate PDF](CertificateFileName.pdf)
+
 ## 👩‍💻 Author
 Helin Bora
