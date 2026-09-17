@@ -20,7 +20,7 @@ This project demonstrates authentication and authorization mechanisms using ASP.
 
 ## 📜 Certificate
 You can view my certificate here:
-[Certificate PDF](CertificateAspNetCore.pdf')
+[Certificate PDF](https://github.com/HelinBora/AspNetCore-Identity-Security-Project/blob/main/CertificateAspNetCore.pdf)
 
 ## 👩‍💻 Author
 Helin Bora
