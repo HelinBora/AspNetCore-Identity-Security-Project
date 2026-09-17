@@ -20,7 +20,7 @@ This project demonstrates authentication and authorization mechanisms using ASP.
 
 ## 📜 Certificate
 You can view my certificate here:
-[Certificate PDF](CertificateFileName.pdf)
+[Certificate PDF](CertificateAspNetCore.pdf')
 
 ## 👩‍💻 Author
 Helin Bora
